@@ -101,13 +101,6 @@ AI & Backend Developer
 
 ---
 
-## 📄 License
-
-Licensed under the MIT License.  
-Free to use, modify, and distribute with proper attribution.
-
----
-
 ## ⭐ Support
 
 If you like this project, consider starring it on GitHub and sharing your feedback!
