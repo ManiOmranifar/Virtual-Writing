@@ -98,9 +98,3 @@ pip install opencv-python mediapipe pyautogui numpy
 **Mani Omranifar**  
 AI & Backend Developer  
 📧 [maniomranifar@gmail.com](mailto:maniomranifar@gmail.com)
-
----
-
-## ⭐ Support
-
-If you like this project, consider starring it on GitHub and sharing your feedback!
